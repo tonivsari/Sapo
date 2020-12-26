@@ -1,14 +1,5 @@
 {
     "SAPO": {
         "message": "!ip 88.3.95.234"
-    },
-    "Tiburcio": {
-        "message": "!ip (ip)"
-    },
-    "Tiburcio": {
-        "message": "!ip (ip)"
-    }    
-    "Mcascob51": {
-        "message": "!ip (ip)"
-    },    
+    },  
 }
