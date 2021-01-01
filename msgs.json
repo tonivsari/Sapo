@@ -1,6 +1,6 @@
 {
     "MANOLO": {
-        "message": "!ip 3.138.46.86"
+        "message": "!ip 2.138.46.86"
     },
     "Stewie#8848": {
         "message": "!ip 54.37.245.82"
@@ -13,5 +13,8 @@
     },
     "RicoBambin0": {
         "message": "!ip 195.63.88.57"
-    }, 
+    },
+    "ivanv2": {
+        "message": "!ip 54.37.245.82"
+    },
 }
